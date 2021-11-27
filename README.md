@@ -1,6 +1,7 @@
 Hi, I'm laras Wulandari agfaningrum.
 
 I'm interest in Design, Animation, Magazine, Computer Security and Web Developer
+
 I'm Student Informatika of Universitas Multimedia Nusantara
 
 <!---
